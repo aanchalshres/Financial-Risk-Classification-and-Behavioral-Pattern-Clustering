@@ -55,3 +55,7 @@ This project applies machine learning to classify loan approval risk and segment
 - **numpy** - Numerical computing
 - **matplotlib & seaborn** - Visualization
 - **jupyter** - Interactive notebooks
+
+## Data Source
+
+Kaggle Link - https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval (20,000 records with 12+ features)
